@@ -1,2 +1,2 @@
 # sp_mac
-First commit Repo
+This script make u anounyme by spofing mac and changing IP randomly
